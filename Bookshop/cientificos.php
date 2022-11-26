@@ -1,7 +1,7 @@
 
 <?php
 require_once __DIR__."../vendor/autoload.php";
-$title = "Livros cientifícos";
+$title = "Livros científicos";
 
 use App\Controller\Readlivro;
 
